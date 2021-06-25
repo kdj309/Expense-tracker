@@ -1,0 +1,10 @@
+1 git config --global user.name "user name"
+2 git config --global user.email "user email"
+3 git init
+4 git add .
+5 git commit -m "Initial commit"
+6 git status (not compulsary)
+7 ssh key command
+8 path of ssh .pub file (add that ssh key to github account)
+9 git remote add origin ssh url (user ssh url)
+10 git push origin master
